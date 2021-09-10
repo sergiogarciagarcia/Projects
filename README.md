@@ -43,7 +43,7 @@ https://www.kaggle.com/sergiogarciagarcia/aceasmartwaterriverflow-mlp
 https://www.kaggle.com/sergiogarciagarcia/aceasmartwaterriverflow
 https://www.kaggle.com/sergiogarciagarcia/aceasmartwater-auser-aquifer-cos-rnn
 
-I worked alone in developping some prediction models based on RNN to generate a model that can generate a solid prediction. After data cleansing and feature identification, different simple Deep Learning models with regular NN (MLP) were defined, but only after applying RNN due to the nature of the water behavior / persistence a solid model could be devlopped. 
+I worked alone in developping some prediction models based on RNN to generate a model that can generate a solid prediction. After data cleansing and feature identification, different simple Deep Learning models with regular NN (MLP) were defined, but only after applying RNN due to the nature of the water behavior / persistence an acceptable model could be found.
 
 
 
