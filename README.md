@@ -28,7 +28,7 @@ The Dashboards were dynamically populated and represent the data in multiple way
 
 
 
-HR PROMOTION PREDICTOR
+HR PROMOTION PREDICTOR (July 2021)
 
 https://colab.research.google.com/drive/1a6pNxkgGBrbV4rKUhlMy-BLn-OwR0gAd
 
