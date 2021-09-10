@@ -1,7 +1,7 @@
 # Projects
 In this section, you can find the list of the relevant projects where I was key contributor as part of small teams or that I developped on my own
 
-ENERGY PREDICTION (November 2020)
+**ENERGY PREDICTION (November 2020)
 
 https://app.powerbi.com/view?r=eyJrIjoiMGY0M2QxYzYtNDg5ZC00MDMzLWE1MDAtMjIxMTc4MmI2NDNjIiwidCI6IjkzZjMzNTcxLTU1MGYtNDNjZi1iMDlmLWNkMzMxMzM4ZDA4NiIsImMiOjZ9
 
@@ -28,7 +28,7 @@ The Dashboards were dynamically populated and represent the data in multiple way
 
 
 
-HR PROMOTION PREDICTOR (July 2021)
+**HR PROMOTION PREDICTOR (July 2021)
 
 https://colab.research.google.com/drive/1a6pNxkgGBrbV4rKUhlMy-BLn-OwR0gAd
 
