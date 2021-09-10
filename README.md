@@ -5,7 +5,7 @@ ENERGY PREDICTION (November 2020)
 
 https://app.powerbi.com/view?r=eyJrIjoiMGY0M2QxYzYtNDg5ZC00MDMzLWE1MDAtMjIxMTc4MmI2NDNjIiwidCI6IjkzZjMzNTcxLTU1MGYtNDNjZi1iMDlmLWNkMzMxMzM4ZDA4NiIsImMiOjZ9
 
-In a small squad of 4 poeple (PO, Data Science, Data Analyst, AI Engineer), for 2 weeks partial time, we worked on a MVP to build a Prediction Model for Energy consumption for Germany regions. 
+In a small squad of 4 people (PO, Data Science, Data Analyst, AI Engineer), for 2 weeks partial time, we worked on a MVP to build a Prediction Model for Energy consumption for Germany regions. 
 The purpose was to predict the amount of energy to be generated in 40 energy stations to meet demand, and reduce as much as possible overconsumption (waste), as well as underconsumption (need to buy energy to third parties)
 
 Solution consisted of 2 parts: 
