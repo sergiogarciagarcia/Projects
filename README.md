@@ -26,6 +26,25 @@ Data Visualization Dashboards was built on Power BI, connecting to Azure Blob St
 The Dashboards were dynamically populated and represent the data in multiple ways that enable attention to diferent aspects for decision making. 
 
 
+**ACEA SMART WATER (KAGGLE) **
+
+https://www.kaggle.com/c/acea-water-prediction/overview/description
+
+The challenge consists of developing an analysis of the aquifers status over the time and predict and identify the different influences.
+
+https://www.kaggle.com/sergiogarciagarcia/aceasmartwater-auser-aquifer-cos-rnn
+https://www.kaggle.com/sergiogarciagarcia/aceasmartwater-auser-basic-smooth-and-diff
+https://www.kaggle.com/sergiogarciagarcia/aceasmartwater-auser-aquifer-sal
+https://www.kaggle.com/sergiogarciagarcia/aceasmartwater-auser-aquifer-lt2
+https://www.kaggle.com/sergiogarciagarcia/aceasmartwaterlakebilancino-lstm
+https://www.kaggle.com/sergiogarciagarcia/aceasmartwaterriverflow-lstm
+https://www.kaggle.com/sergiogarciagarcia/aceasmartwaterlakebilancino-mlp
+https://www.kaggle.com/sergiogarciagarcia/aceasmartwaterriverflow-mlp
+https://www.kaggle.com/sergiogarciagarcia/aceasmartwaterriverflow
+https://www.kaggle.com/sergiogarciagarcia/aceasmartwater-auser-aquifer-cos-rnn
+
+I worked alone in developping some prediction models based on RNN to generate a model that can generate a solid prediction. After data cleansing and feature identification, different simple Deep Learning models with regular NN (MLP) were defined, but only after applying RNN due to the nature of the water behavior / persistence a solid model could be devlopped. 
+
 
 
 **HR PROMOTION PREDICTOR (July 2021)**
