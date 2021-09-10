@@ -26,3 +26,25 @@ Data Visualization Dashboards was built on Power BI, connecting to Azure Blob St
 The Dashboards were dynamically populated and represent the data in multiple ways that enable attention to diferent aspects for decision making. 
 
 
+
+
+HR PROMOTION PREDICTOR
+
+https://colab.research.google.com/drive/1a6pNxkgGBrbV4rKUhlMy-BLn-OwR0gAd
+
+In a small squad of 3 people as part of AI BootCamp organized at DXC, we selected a business case from Kaggle to test the different steps in an AI project, to acquire some internal badges that validate the understanding of these aspects.
+1) Industrialized AI Data Engineering => To build pipelines of data flows from/to data stores (MongoDB), as well as deploy Utility AI
+2) Industrialized AI Data Scientist => To design and run experiments and perform AI Forensics
+3) Industrialized AI Leader => To run an Agile Transformation and to Create Data Stories
+Once all completed a Badge of Industrialized AI Master is achieved.
+
+The exercise was focused on the use of Libraries that encapsulate diferent APIs from other Libraries (pytorch, ...)
+https://github.com/dxc-technology/DXC-Industrialized-AI-Starter
+
+The Business case was not a very good one because the data is not much reliable and there are cases where same data can represent as well a positive and a negative case. As missing data to enable a model to discriminate the result with quality was not achieved, this was used mainly for educational purposes. The imbalance dataset also represented an additional challenge that we had to overcome by selecting proper metrics (No Data Augmentation was used for this case)
+
+Once the data cleansing, data store and experiments were run to get a conclusion, an Utility was built in Algorithmia (https://algorithmia.com/) for consumption.
+
+
+
+
